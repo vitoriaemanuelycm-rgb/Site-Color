@@ -8,5 +8,5 @@ Foi utilizado para a criação o HTML para criar o esqueleto do site, o Bootstra
 Primeiro, você tem que ter instalado no seu notebook o Git e, no VS Code, a extensão Live Server para funcionar.
 Depois disso, é necessário pressionar as teclas Windows + R e digitar powershell para abrir o terminal do Windows. Em seguida, digite cd seguido do caminho da sua pasta (ou arraste a pasta para dentro do terminal).
 
-O próximo passo é digitar git clone <link-do-projeto> (copie o link no botão verde Code do repositório no GitHub). Depois, digite cd <nome-da-pasta-do-projeto>, pressione Enter e digite code . para abrir o projeto no VS Code.
+O próximo passo é digitar git clone <link-do-projeto> (copie o link no botão verde Code do repositório no GitHub). Depois, digite cd <nome-da-pasta-do-projeto> e coloque  nome do projeto, pressione Enter e digite code . para abrir o projeto no VS Code.
 Por fim, basta clicar em Go Live no canto inferior direito para abrir o site no navegador.
